@@ -1,5 +1,5 @@
 import { SomeClass } from './SomeFile';
 
-it("should return February as last month on March 29", async () => {
+it("should run the test", async () => {
     SomeClass.test();
 })
